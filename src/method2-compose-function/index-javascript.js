@@ -21,7 +21,7 @@ export function method2_Compose() {
   //  Create our players
   //------------------------------------------------------------------------
   const roger = createSlacker({
-    name: 'RogerRoger',
+    name: 'Roger',
   })
   const richard = createBesserwisser({
     name: 'Richard',

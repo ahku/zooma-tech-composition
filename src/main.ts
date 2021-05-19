@@ -9,4 +9,3 @@ output += method3_ClassMixins()
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 app.innerHTML = `${output}`
-
